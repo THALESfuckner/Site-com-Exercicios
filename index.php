@@ -18,7 +18,7 @@
                     <h3>Módulo 01</h3>
                     <ul>
                        <li> <a href="exercicio.php">Olá.PHP</a></li>
-                       <li> <a href="">Execício B</a></li>
+                       <li> <a href="Basico/html.php">Integração HTML </a></li>
                        <li> <a href="">Execício C</a></li>
                     </ul>
                 </div>
